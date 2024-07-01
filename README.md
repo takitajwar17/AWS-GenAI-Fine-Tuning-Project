@@ -1,4 +1,4 @@
-﻿# Project: Fine-Tuning a Large Language Model with AWS
+﻿# LLM-Financial-Advisor: Fine-Tuning a LLM with Finance Data in AWS
 
 ## Overview
 This project explores the application of generative AI in enhancing customer experience through the fine-tuning of a large language model (Meta Llama 2 7B) using Amazon SageMaker and AWS tools. The aim is to develop a domain expert model capable of generating informative, accurate, and contextually relevant text responses for specific domains such as finance (already fine-tuned), medical, or IT.
